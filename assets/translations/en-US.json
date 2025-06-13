@@ -1,0 +1,323 @@
+{
+  "notification": {
+    "title": "Notifications",
+    "empty": "No notifications"
+  },
+  "signUp": "Sign Up",
+  "back": "Back",
+  "firstName": {
+    "hint": "Enter First Name",
+    "label": "First Name",
+    "error": {
+      "empty": "Please enter your first name",
+      "invalid": "Enter valid first name"
+    }
+  },
+  "lastName": {
+    "hint": "Enter Last Name",
+    "label": "Last Name",
+    "error": {
+      "empty": "Please enter your last name",
+      "invalid": "Enter valid last name"
+    }
+  },
+  "email": {
+    "hint": "Enter Email",
+    "label": "Email",
+    "error": {
+      "empty": "Please enter your email",
+      "invalid": "Please enter a valid email address"
+    }
+  },
+  "password": {
+    "hint": "Enter Password",
+    "label": "Password",
+    "error": {
+      "empty": "Please enter your password",
+      "invalid": "The password is not valid"
+    }
+  },
+  "confirmPassword": {
+    "hint": "Confirm Password",
+    "label": "Confirm Password",
+    "error": {
+      "empty": "Confirm your password",
+      "mismatch": "Passwords do not match"
+    }
+  },
+  "auth": {
+    "errors": {
+      "invalid_credentials": "Username or password is incorrect",
+      "sign_in_error": "Error during sign in: {error}",
+      "navigation": {
+        "forgot_password": "Navigate to forgot password page",
+        "sign_up": "Navigate to sign up page"
+      }
+    },
+    "login": {
+      "title": "Login",
+      "email": {
+        "label": "Email",
+        "hint": "Enter your email",
+        "validation": {
+          "required": "Email is required",
+          "invalid": "Please enter a valid email"
+        }
+      },
+      "password": {
+        "label": "Password",
+        "hint": "Enter your password",
+        "validation": {
+          "required": "Password is required",
+          "invalid": "Password must be at least 6 characters"
+        }
+      },
+      "remember_me": "Remember me",
+      "forgot_password": "Forgot password?",
+      "login_button": "Login",
+      "guest_button": "Continue as guest",
+      "no_account": "Don't have an account? ",
+      "sign_up": "Sign up",
+      "guest_message": "Signed in as guest"
+    }
+  },
+  "home": {
+    "sections": {
+      "best_seller": "Best seller",
+      "categories": "Categories",
+      "occasion": "Occasion",
+      "view_all": "View All",
+      "search": "Search",
+      "flowery": "Flowery"
+    },
+    "empty_states": {
+      "best_sellers": "No best sellers available",
+      "categories": "No categories available",
+      "occasions": "No occasions available",
+      "no_data": "No data available. Pull to refresh."
+    },
+    "location": {
+      "select": "Select location",
+      "finding": "Finding your location...",
+      "deliver_to": "Deliver to",
+      "error": "Location error",
+      "placeholder": "..................."
+    },
+    "items": {
+      "unknown": "Unknown"
+    }
+  },
+  "common": {
+    "currency": "EGP",
+    "unknown": "Unknown"
+  },
+  "gender": {
+    "label": "Gender",
+    "female": "Female",
+    "male": "Male"
+  },
+  "phone": {
+    "hint": "Enter Phone Number",
+    "label": "Phone Number",
+    "error": {
+      "empty": "Please enter your phone number",
+      "invalid": "Egyptian numbers only"
+    }
+  },
+  "profile": {
+    "myOrders": "My orders",
+    "savedAddress": "Saved address",
+    "notification": "Notification",
+    "language": "Language",
+    "userLanguage": "English",
+    "changeLanguage": "Change Language",
+    "aboutUs": "About us",
+    "termsAndConditions": "Terms & conditions",
+    "terms": {
+      "title": "Terms & Conditions",
+      "last_updated": "Last Updated: April 17, 2025",
+      "introduction": "1. Introduction",
+      "definitions": "2. Definitions & Usage",
+      "account": "3. Account & Ordering",
+      "delivery": "4. Delivery",
+      "cancellation": "5. Cancellation & Refunds",
+      "app_usage": "6. App Usage & Privacy",
+      "legal": "7. Legal Matters",
+      "contact": "8. Contact Us",
+      "introduction_text": "Welcome to Flowery! These Terms and Conditions govern your use of the Flowery mobile application and services. By accessing or using our app, you agree to be bound by these terms. Please read them carefully before proceeding.",
+      "definitions_text": "In these Terms, \"App\" refers to Flowery, \"You\" refers to the user, and \"We/Us/Our\" refers to Flowery. Our app offers flower delivery services and products that you can purchase through the platform.",
+      "account_text": "To use our app, you may need to register an account with accurate information. You are responsible for maintaining the confidentiality of your account. Orders placed through the App are subject to availability, and payment must be made at the time of order. We reserve the right to refuse or cancel orders for various reasons including availability issues or suspicious activity.",
+      "delivery_text": "Delivery times are estimates and may vary based on location and circumstances. We strive to deliver flowers in optimal condition but cannot guarantee exact appearance due to seasonal variations. You are responsible for providing accurate delivery information.",
+      "cancellation_text": "Cancellation requests must be made within 2 hours of placing an order and before dispatch. Refunds will be processed according to our policy and may take 5-10 business days.",
+      "app_usage_text": "You agree to use the App only for lawful purposes. Your privacy is important to us, and our Privacy Policy explains how we collect and protect your information. By using the App, you consent to our data practices.",
+      "legal_text": "The App and its content are owned by Flowery and protected by intellectual property laws. We may modify these Terms at any time. Flowery shall not be liable for any indirect damages resulting from your use of the App. These Terms are governed by the laws of the jurisdiction in which Flowery operates.",
+      "contact_text": "If you have any questions about these Terms and Conditions, please contact us at:",
+      "email": "Email: support@flowery.com",
+      "phone": "Phone: +1 (123) 456-7890",
+      "address": "Address: 123 Flower Street, Garden City, FL 12345",
+      "thank_you": "Thank you for using Flowery",
+      "copyright": " 2025 Flowery. All rights reserved."
+    },
+    "logout": "Logout",
+    "updateProfile": "Update",
+    "updateProfileSuccess": "Updated",
+    "editProfile": "Edit Profile",
+    "logoutTitle": "LOGOUT",
+    "confirmLogout":"Confirm logout !!",
+    "cancel": "Cancel"
+  },
+  "dialogs": {
+    "error": {
+      "title": "Error",
+      "ok": "OK"
+    },
+    "success": {
+      "title": "Created Successfully",
+      "message": "Account created successfully \n Click OK to login.",
+      "ok": "OK"
+    }
+  },
+  "loginPrompt": {
+    "prefix": "Already have an account? ",
+    "action": "Login"
+  },
+  "success": {
+    "title": "Created Successfully",
+    "message": "Account created successfully \n Click OK to login.",
+    "ok": "OK"
+  },
+  "forgetPassword": {
+    "title": "Forget Password",
+    "description": "Please enter your email associated to your account",
+    "continueButton": "Continue"
+  },
+  "pinCode": {
+    "title": "Email Verification",
+    "description": "Please enter your code that send to your email address",
+    "ErrorMessage": "Invalid Code",
+    "ReadyMessage": "Didn't receive code?",
+    "ResendMessage": "Resend"
+  },
+  "occasionPage": {
+    "title": "Occasions",
+    "description": "Bloom with our exquisite best sellers"
+  },
+  "bestSeller": {
+    "title": "Best seller",
+    "description": "Bloom with our exquisite best sellers"
+  },
+  "cart": {
+    "cart": "Cart",
+    "items": "Items",
+    "delivery": "Delivery",
+    "total": "Total",
+    "deliveryFee": "Delivery Fee",
+    "deliverTo": "Deliver to",
+    "subTotal": "Sub Total",
+    "checkout": "Checkout",
+    "address": "Address",
+    "cartEmpty": "Cart is empty",
+    "failedToGetCart": "'Failed to get user cart.",
+    "pound": "EGP",
+    "errorUpdateQuantity": "error occured while updating product quantity",
+    "resetQuantityErrorMsg": "unable to update product quantity, please try again later",
+    "quantityUpdatedTo": "quantity is updated to",
+    "successfullyRemoved": "product successfully removed",
+    "failedToRemove": "failed to remove product",
+    "updateProfileSuccess": "Updated",
+    "addToCart": "Add to cart",
+    "removeFromCart": "Remove from cart"
+  },
+  "reset_password": {
+    "title": "Reset Password",
+    "current_password": "Current Password",
+    "current_password_hint": "Current Password",
+    "new_password": "New Password",
+    "new_password_hint": "New Password",
+    "confirm_password": "Confirm Password",
+    "confirm_password_hint": "Confirm Password",
+    "update_button": "Update",
+    "success_message": "Password updated successfully",
+    "error_message": "Failed to update password. Please try again.",
+    "error": {
+      "confirm_password_required": "Please confirm your password",
+      "passwords_not_match": "Passwords do not match",
+      "same_password": "New password must be different from current password",
+      "incorrect_password": "Current password is not correct"
+    }
+
+  },
+  "filter":{
+    "sortBy":"Sort by",
+    "lowestPrice":"Lowest Price",
+    "highestPrice":"Highest Price",
+    "new":"New",
+    "old":"Old",
+    "discount":"Discount",
+    "price":"Price",
+    "filterButton":"Filter"
+  },
+  "checkout": {
+    "title": "Checkout",
+    "delivery_time": "Delivery time",
+    "schedule": "Schedule",
+    "instant": "Instant, ",
+    "delivery_address": "Delivery address",
+    "add_new": "Add new",
+    "payment_method": "Payment method",
+    "payment_method_cash": "Cash on delivery",
+    "payment_method_card": "Credit card",
+    "it_is_a_gift": "It is a gift",
+    "enter_the_name": "Enter the name",
+    "name": "Name",
+    "enter_the_phone_number": "Enter the phone number",
+    "phone_number": "Phone number",
+    "sub_total": "Sub Total",
+    "delivery_fee": "Delivery Fee",
+    "total": "Total",
+    "place_order": "Place order"
+  },
+  "addAddress": {
+    "title": "Add Address",
+    "save_address_button": "Save Address",
+    "address_label": "Address",
+    "address_hint": "Enter the address",
+    "address_error_empty": "Please enter an address",
+    "phone_label": "Phone Number",
+    "phone_hint": "Enter the phone number",
+    "phone_error_empty": "Please enter a phone number",
+    "phone_error_length": "Phone number must be 11 digits",
+    "recipient_name_label": "Recipient name",
+    "recipient_name_hint": "Enter the recipient name",
+    "recipient_name_error_empty": "Please enter a recipient name",
+    "recipient_name_error_length": "Name must be at least 2 characters",
+    "city_label": "City",
+    "city_hint": "Type or select a city",
+    "city_error_empty": "Please select or enter a city",
+    "area_label": "Area",
+    "area_hint": "Type or select an area",
+    "area_error_empty": "Please select or enter an area",
+    "map_error_message": "Error getting your location \n please try enter it Manually"
+  },
+  "addresses": {
+    "addNewAddress": "Add new address",
+    "savedAddresses": "Saved addresses",
+    "noAddressAvailable": "No address available",
+    "editAddress": "Edit address"
+  },
+  "myOrders": {
+    "title": "My Orders",
+    "noOrders": "No orders available",
+    "activeTab": "Active",
+    "completedTab": "Completed",
+    "TrackOrder": "Track Order",
+    "orderNum": "Order Number",
+    "Curnncy": "EGP",
+    "reOrder": "Reorder"
+  },
+  "defaultErrorMsg": "something went wrong, please try again later",
+  "payment": {
+    "success": "Payment successful",
+    "error": "Payment failed"
+  }
+}
